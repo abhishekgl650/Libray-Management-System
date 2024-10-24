@@ -1,6 +1,6 @@
 click==7.1.1
 decorator==4.4.2
-mysql-connector-python==8.0.19
+mysql-connector-python==9.1.0
 mysqlclient==1.4.6
 public==2019.4.13
 PyQt5==5.13.0
